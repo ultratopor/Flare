@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf4c6812d2fce1e47adbd6fa2776a3cd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Audio/Coin/CoinAuthor.txt
+  uploadId: 707133

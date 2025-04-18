@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c1da9079844a7941bd12ba1b2c85704
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/Utilities/WatchTimer.cs
+  uploadId: 707133

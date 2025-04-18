@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e27b928aa4d07c46ac4346b2411cb62
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Inputs/UnityRebind/Unity.InputSystem.RebindingUI.asmdef
+  uploadId: 707133

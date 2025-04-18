@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d28775245f3696c4a88d612b38084e69
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Audio/FootSteps/FootStepsAuthor.txt
+  uploadId: 707133

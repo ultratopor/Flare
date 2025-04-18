@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea219b26c236c6d45b8880c62bce8ef2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/FX/Laser/LaserGlow.prefab
+  uploadId: 707133

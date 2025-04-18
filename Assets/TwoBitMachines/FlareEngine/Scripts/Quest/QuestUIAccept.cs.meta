@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf0fc65ec0c23654b8aff668e047f8d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Quest/QuestUIAccept.cs
+  uploadId: 707133

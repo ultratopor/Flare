@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: edafc375bb17e1a42abf1e2ccad7cd19
+timeCreated: 1565989448
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Safire2DCamera/Scripts/Modules/Cinematics.cs
+  uploadId: 707133

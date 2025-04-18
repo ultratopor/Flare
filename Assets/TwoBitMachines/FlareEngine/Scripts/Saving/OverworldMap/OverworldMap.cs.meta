@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 921201a0f3f3a5a47a0d1e2375444ce2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Saving/OverworldMap/OverworldMap.cs
+  uploadId: 707133

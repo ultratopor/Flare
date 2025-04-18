@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a27e2480930dfac4aa539964072e8377
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Safire2DCamera/Scripts/Modules/ResolutionScaling.cs
+  uploadId: 707133

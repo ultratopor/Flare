@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f0ed7888b8789b64ca091698b157b4d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/EditorScripts/Inspector/ReorderList.cs
+  uploadId: 707133

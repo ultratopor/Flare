@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4c95ab7481555d7498c14a61a6cc66e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Editor/Effects/InterpolateColorEditor.cs
+  uploadId: 707133

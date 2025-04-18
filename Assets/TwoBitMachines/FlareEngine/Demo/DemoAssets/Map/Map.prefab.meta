@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1d8b6299a10ee946a575f656f0c71b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/DemoAssets/Map/Map.prefab
+  uploadId: 707133

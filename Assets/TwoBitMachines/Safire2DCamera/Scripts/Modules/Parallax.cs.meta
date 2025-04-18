@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f00cc499ffe9fd545aa3fde01fe6f16a
+timeCreated: 1558054513
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Safire2DCamera/Scripts/Modules/Parallax.cs
+  uploadId: 707133

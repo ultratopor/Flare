@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a217c59d1e47064cbad59eb747eab27
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Transitions/Prefabs/TransitionCenterIn.prefab
+  uploadId: 707133

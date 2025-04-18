@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a6bc7ca53a920ca47a6f1de78ab8af5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Player/Abilities/Wall/CornerGrab/CornerGrabJump.cs
+  uploadId: 707133

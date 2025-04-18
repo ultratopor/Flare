@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fce9d7364f7ef6c44a9425993cab4c4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Weapons/Projectile/ProjectileType/ProjectileBullet.cs
+  uploadId: 707133

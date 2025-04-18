@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2d00df01f86e7244b359c1567631707
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/EditorScripts/Serialize/Labels.cs
+  uploadId: 707133

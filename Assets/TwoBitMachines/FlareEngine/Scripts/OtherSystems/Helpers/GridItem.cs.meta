@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5f2df54fcbda76d4da2c5058d01f85df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/OtherSystems/Helpers/GridItem.cs
+  uploadId: 707133

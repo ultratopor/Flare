@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0aa5cb8d7db306148a3d5d12aba732a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Editor/Other/Inputs/OptionsBindingMenuEditor.cs
+  uploadId: 707133

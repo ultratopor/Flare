@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62188917b3df7b2409b10e325b6dc373
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Behavior/Nodes/Action/Abilities/DamageFlash.cs
+  uploadId: 707133

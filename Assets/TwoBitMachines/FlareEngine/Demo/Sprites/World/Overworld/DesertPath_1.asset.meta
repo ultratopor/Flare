@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 829f7849547cc3b4d9109254168fd755
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Sprites/World/Overworld/DesertPath_1.asset
+  uploadId: 707133

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13e89c15737909f48b7ed4dc4b4e2e9e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Transitions/Prefabs/TransitionFade.prefab
+  uploadId: 707133

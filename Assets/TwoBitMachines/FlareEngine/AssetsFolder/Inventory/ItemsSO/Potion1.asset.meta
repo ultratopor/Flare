@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1a72e0132c79124ab12bff098298d9f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Inventory/ItemsSO/Potion1.asset
+  uploadId: 707133

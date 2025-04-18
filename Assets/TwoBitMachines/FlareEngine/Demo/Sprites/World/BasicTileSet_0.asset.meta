@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5993952947f8134db58e12c7cc68bee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Sprites/World/BasicTileSet_0.asset
+  uploadId: 707133

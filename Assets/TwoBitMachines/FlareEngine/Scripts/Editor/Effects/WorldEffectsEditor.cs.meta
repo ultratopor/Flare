@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5912aa2d2e6f21a4aadcf83a99aa8694
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Editor/Effects/WorldEffectsEditor.cs
+  uploadId: 707133

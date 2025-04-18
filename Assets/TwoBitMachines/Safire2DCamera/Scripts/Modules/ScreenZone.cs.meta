@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b5cf3821ca2967147a3eecdc4b2c95ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Safire2DCamera/Scripts/Modules/ScreenZone.cs
+  uploadId: 707133

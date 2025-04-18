@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 448396b25b85ceb42b7fa2a64af60ef2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/TidBits/Teleport.unity
+  uploadId: 707133

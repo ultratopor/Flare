@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eee9e6060f7059e4496d89bf77669440
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Editor/Quest/QuestInventorySOEditor.cs
+  uploadId: 707133

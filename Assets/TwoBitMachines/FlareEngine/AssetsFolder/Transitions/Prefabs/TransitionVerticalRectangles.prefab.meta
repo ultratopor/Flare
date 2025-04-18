@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37c3d5bd4f04de149b5db2976b068a99
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Transitions/Prefabs/TransitionVerticalRectangles.prefab
+  uploadId: 707133

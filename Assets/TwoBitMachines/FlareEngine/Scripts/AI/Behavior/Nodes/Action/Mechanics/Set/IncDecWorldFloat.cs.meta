@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aa5b7442b32d10140befc9627a74f2f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Behavior/Nodes/Action/Mechanics/Set/IncDecWorldFloat.cs
+  uploadId: 707133

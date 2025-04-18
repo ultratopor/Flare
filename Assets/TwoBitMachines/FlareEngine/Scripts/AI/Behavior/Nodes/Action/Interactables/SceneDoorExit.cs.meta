@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6fb82eca698a37b419ac07b03cf5d1ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Behavior/Nodes/Action/Interactables/SceneDoorExit.cs
+  uploadId: 707133

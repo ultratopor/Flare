@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4a8fb28ec13d4264c924f6003a2d23ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Behavior/Nodes/Action/Character/Animation/AnimationSignal.cs
+  uploadId: 707133

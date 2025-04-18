@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96941b704c57cf442bd973474d88ddd8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Transitions/Prefabs/TransitionDiagonalBlinds.prefab
+  uploadId: 707133

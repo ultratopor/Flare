@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c379037080edda94fb833a4b649a855c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Audio/AudioManagerSO.asset
+  uploadId: 707133

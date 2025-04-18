@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f4f27f4a2db92546a5c703f6c3d87e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Behavior/Nodes/Action/Abilities/Jump/HighJump.cs
+  uploadId: 707133

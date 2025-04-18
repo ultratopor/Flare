@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2fe56d628aac724d94e679b014714eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/Utilities/Wiggle/TweenParent.cs
+  uploadId: 707133

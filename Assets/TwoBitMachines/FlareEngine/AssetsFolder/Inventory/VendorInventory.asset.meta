@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e8a18437b816304d99e08b910a45d0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Inventory/VendorInventory.asset
+  uploadId: 707133

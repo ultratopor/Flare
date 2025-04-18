@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bfdf6fd4fd4c93b4695e69228ada4dea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Pathfinder/Pathfinding/PathfindingJobRT.cs
+  uploadId: 707133

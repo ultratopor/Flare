@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c910237d6df26c4aaa96c172d72d26a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/SpriteEngine/Scripts/Properties/FixedJoint2DProperty.cs
+  uploadId: 707133

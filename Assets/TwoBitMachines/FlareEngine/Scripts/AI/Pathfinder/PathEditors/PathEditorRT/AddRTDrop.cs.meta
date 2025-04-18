@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fa3040ffef5d0ab43b45ff90eda0e5ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Pathfinder/PathEditors/PathEditorRT/AddRTDrop.cs
+  uploadId: 707133

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 456b676c822f1e84a8fa2ef05ee12797
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Audio/UI-Sounds/UISoundsAuthor.txt
+  uploadId: 707133

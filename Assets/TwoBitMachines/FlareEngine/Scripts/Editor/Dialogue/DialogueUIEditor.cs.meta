@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3ce4d93b7bc167e43913379d16a842b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Editor/Dialogue/DialogueUIEditor.cs
+  uploadId: 707133

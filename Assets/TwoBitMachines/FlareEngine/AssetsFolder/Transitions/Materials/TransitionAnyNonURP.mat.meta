@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 367d382af0c22ce47aa5583864ed7045
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Transitions/Materials/TransitionAnyNonURP.mat
+  uploadId: 707133

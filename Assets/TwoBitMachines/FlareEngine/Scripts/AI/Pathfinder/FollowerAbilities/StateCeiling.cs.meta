@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1243ec5c5a5e2a447aff4025b68b6f4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Pathfinder/FollowerAbilities/StateCeiling.cs
+  uploadId: 707133

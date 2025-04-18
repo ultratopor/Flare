@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 01a668a56f3400a4a880a2ffa3de5937
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Saving/SaveSlots/SaveMenu.cs
+  uploadId: 707133

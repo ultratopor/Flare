@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4ef2b0ea91e19c943b2d3f2c889f5dc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Behavior/Blackboard/Variable/Vector3ListVariable.cs
+  uploadId: 707133

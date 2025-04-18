@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32eaeb682c4f30c458a2893d93c1a182
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/EditorScripts/Inspector/Editor/LayerAttributeEditor.cs
+  uploadId: 707133

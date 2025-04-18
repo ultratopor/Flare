@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 916c3367bca237b4386f8cf8d0f575ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Variables/PlayerHealthTutorial.asset
+  uploadId: 707133

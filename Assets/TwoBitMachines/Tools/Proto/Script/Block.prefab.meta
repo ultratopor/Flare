@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bb72d1a876ef6d459c3844819df0c2f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/Proto/Script/Block.prefab
+  uploadId: 707133

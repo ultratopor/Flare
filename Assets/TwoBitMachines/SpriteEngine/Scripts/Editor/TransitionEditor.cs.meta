@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c32131640cab6d947acb24406839db32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/SpriteEngine/Scripts/Editor/TransitionEditor.cs
+  uploadId: 707133

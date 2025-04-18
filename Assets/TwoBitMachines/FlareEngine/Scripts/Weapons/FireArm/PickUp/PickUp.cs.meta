@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea9dd015b2e0f3a4a88ebe4a7af39fc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Weapons/FireArm/PickUp/PickUp.cs
+  uploadId: 707133

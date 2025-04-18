@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84008cd096fef484da3ba8aa892ae2b9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Scenes/TidBits/MovingPlatformsSharedPath.unity
+  uploadId: 707133

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ed7ca9e4de2f4584a861423a9d6ecf13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/SpriteEngine/Scripts/SpriteEngineUI.cs
+  uploadId: 707133

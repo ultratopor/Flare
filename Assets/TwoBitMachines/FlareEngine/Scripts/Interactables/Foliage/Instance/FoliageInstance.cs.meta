@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e7f534514bf61a469d223d78642bdf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Interactables/Foliage/Instance/FoliageInstance.cs
+  uploadId: 707133

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4be53a638d63ccf45879e0d1ec67c400
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Map/SceneEditor/Editor/SceneControls.cs
+  uploadId: 707133

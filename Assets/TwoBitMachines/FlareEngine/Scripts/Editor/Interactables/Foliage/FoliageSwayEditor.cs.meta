@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44bf39a37b6d62544b15365301a6a85f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Editor/Interactables/Foliage/FoliageSwayEditor.cs
+  uploadId: 707133

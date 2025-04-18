@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c3123a41743c68419cadc2f879d38ec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Safire2DCamera/Prefabs/LetterBoxCanvas.prefab
+  uploadId: 707133

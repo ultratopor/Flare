@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 46b77897b45c5e944ac91cc2a9f7b163
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Player/Abilities/SlamOnEnemy.cs
+  uploadId: 707133

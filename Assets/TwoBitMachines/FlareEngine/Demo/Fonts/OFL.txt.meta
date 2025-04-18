@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b63e0a46e11567645a4aba3fa037d75c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Fonts/OFL.txt
+  uploadId: 707133

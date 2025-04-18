@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b999c2897ec937d4ca0dd693d63745ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/UI_Elements/ElementTools/ElementExtensions.cs
+  uploadId: 707133

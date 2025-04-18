@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f19c795445716643b50e1538642eb98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Effects/SpriteTrail/SpriteTrailUnit.cs
+  uploadId: 707133

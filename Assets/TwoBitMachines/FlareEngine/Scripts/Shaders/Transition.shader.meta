@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fabca918ca89c6c42b211ec3299e2998
+timeCreated: 1463085118
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Shaders/Transition.shader
+  uploadId: 707133

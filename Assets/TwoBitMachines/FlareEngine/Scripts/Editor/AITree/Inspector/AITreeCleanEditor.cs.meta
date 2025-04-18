@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ca3ba75973297eb4e90b5a8b1bfd649c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/Editor/AITree/Inspector/AITreeCleanEditor.cs
+  uploadId: 707133

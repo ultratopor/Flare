@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 573fbf178e79da2468f5c9972df9f962
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/Transitions/Prefabs/TransitionCornerSquare.prefab
+  uploadId: 707133

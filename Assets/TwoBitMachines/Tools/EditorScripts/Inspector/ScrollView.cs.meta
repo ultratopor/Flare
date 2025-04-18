@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ed77c67d553af349bef220ed06f77db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/Tools/EditorScripts/Inspector/ScrollView.cs
+  uploadId: 707133

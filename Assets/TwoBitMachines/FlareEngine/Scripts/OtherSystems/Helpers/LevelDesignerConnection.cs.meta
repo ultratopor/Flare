@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c0b8274c41760a7489ce4ba972e50e16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/OtherSystems/Helpers/LevelDesignerConnection.cs
+  uploadId: 707133

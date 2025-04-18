@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb603438a65a21b4b91d8778700b3d34
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Demo/Sprites/World/Overworld/Overworld.prefab
+  uploadId: 707133

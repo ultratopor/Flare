@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ca6289df585634a42b1f946c85e9890a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/Scripts/AI/Pathfinder/PathEditors/PathEditorRT/AddRTCeiling.cs
+  uploadId: 707133

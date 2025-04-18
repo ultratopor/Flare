@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95ae68df5abd9da4fa0f27a4efe38060
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228468
+  packageName: Flare Engine - 2D Tools
+  packageVersion: 1.8.14
+  assetPath: Assets/TwoBitMachines/FlareEngine/AssetsFolder/FX/Laser/Laser.mat
+  uploadId: 707133
